@@ -82,7 +82,7 @@
 	</reporting>
 	<scm>
 		<connection>scm:git:http://localhost:3000/demo/tp1.git</connection>
-		<url>scm:git:http://localhost:3000/demo/tp1.git</url>
+		<url>http://localhost:3000/demo/tp1/src/master/</url>
 		<developerConnection>scm:git:http://localhost:3000/demo/tp1.git</developerConnection>
 	</scm>
 </project>
